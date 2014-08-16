@@ -1,0 +1,26 @@
+# ECLIPSE:
+.settings/
+.classpath
+.project
+
+# OPCIONAL PARA PHP ECLIPSE
+.buildpath
+
+# CODEIGNITER
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+*/cache/!.htaccess
+
+# WINDOWS:
+Thumbs.db
+Desktop.ini
+
+# OSX:
+.DS_Store
+.svn
+._*
+.Spotlight-V100
+.Trashes
